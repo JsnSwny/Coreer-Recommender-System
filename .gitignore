@@ -1,0 +1,6 @@
+*.json
+data.tar
+*.tar.gz.aa
+*.tar.gz.ab
+*.tar.gz.ac
+filtered_data.csv
